@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|c:\\users\\raagul\\source\\repos\\mycontactapi\\mycontactapi\\mycontactapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{123219B0-A19F-4DB9-B9FB-E22F3F12FFEE}|MyContactAPI\\MyContactAPI.csproj|solutionrelative:mycontactapi\\mycontactapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyContactAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:27:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "MyContactAPI\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:36:38.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "MyContactAPI\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:19:40.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Startup.cs",
+              "RelativeToolTip": "MyContactAPI\\Startup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:36:11.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "MyContactAPI\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:30:29.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyContactAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\appsettings.json",
+              "RelativeToolTip": "MyContactAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T16:53:35.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "MyContactAPI\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAJkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:49:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyContactAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyContactAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:17:50.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyContactAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\MyContactAPI.csproj",
+              "RelativeDocumentMoniker": "MyContactAPI\\MyContactAPI.csproj",
+              "ToolTip": "C:\\Users\\Raagul\\source\\repos\\MyContactAPI\\MyContactAPI\\MyContactAPI.csproj",
+              "RelativeToolTip": "MyContactAPI\\MyContactAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T14:58:24.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
